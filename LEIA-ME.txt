@@ -1,0 +1,14 @@
+CORRECÇÃO PARA GITHUB PAGES
+
+1. Extraia este ZIP no computador.
+2. No repositório receitas-para-emagrecer, carregue estes ficheiros na raiz:
+   - index.html
+   - style.css
+   - script.js
+   - .nojekyll
+   - TESTE.html
+3. Não apague a pasta assets já existente.
+4. Confirme o commit.
+5. Aguarde 2 a 5 minutos.
+6. Abra primeiro: https://austinalberto1979-ctrl.github.io/receitas-para-emagrecer/TESTE.html
+7. Depois abra a página principal com ?v=3 no fim do endereço.
